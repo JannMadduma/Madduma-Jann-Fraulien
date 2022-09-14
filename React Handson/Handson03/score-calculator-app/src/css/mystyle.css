@@ -1,0 +1,27 @@
+.name {
+  font-weight: 300;
+  color: blue;
+}
+
+.school {
+  color: crimson;
+}
+
+.total {
+  color: darkmagenta;
+}
+
+.formatstyle {
+  text-align: center;
+  font-size: large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.score {
+  color: forestgreen;
+}
+
+span {
+  font-weight: 200;
+  font-family: cursive;
+}
