@@ -67,7 +67,7 @@ export const FilipinoPlayers = [
 ];
 
 function MainDisplay() {
-  var flag = false;
+  var flag = true;
   if (flag === true) {
     return (
       <div>
